@@ -4,12 +4,19 @@
 game — and a board generator that makes an unlimited number of unique, printable
 boards right in your browser.
 
-▶ **Play / generate boards:** <https://travisflesher.com/fold-to-fire>
-📖 **The story behind it:** <https://travisflesher.com/hobbies/fold-to-fire>
+## ▶ Just want to play? → **[travisflesher.com/fold-to-fire](https://travisflesher.com/fold-to-fire)**
 
-The whole thing is a single self-contained `index.html` — no build step, no
-dependencies, no server. The web font and the PDF library are embedded, so you
-can open the file straight off disk, fork it, and change anything you like.
+Generate and print as many boards as you want, right there — nothing to install.
+No need to touch any of the code below.
+
+📖 The story behind it: **[travisflesher.com/hobbies/fold-to-fire](https://travisflesher.com/hobbies/fold-to-fire)**
+
+---
+
+The rest of this repo is for tinkerers: the whole thing is a single self-contained
+`index.html` — no build step, no dependencies, no server. The web font and the PDF
+library are embedded, so you can open the file straight off disk, fork it, and
+change anything you like.
 
 ---
 
