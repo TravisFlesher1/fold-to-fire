@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Local-only working files (not part of the published generator)
+archive/
+deploy/
+
+# Python / tooling scratch
+__pycache__/
+*.pyc
